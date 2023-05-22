@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ESG Application</string>
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+    <string name="para1">
+        ESG Components score of
+        Accenture company are
+        Environment Risk Score - 0.3
+        Social Risk Score - 4.6
+        Governance Risk Score- 4.8
+        Total ESG Risk Score is 10
+        (which is 2nd percentile,Negligible)
+        Controversy Level- 2 (Moderate)
+
+    </string>
+    <string name="para2">
+        ESG Components score of IBM are
+        Environment Risk Score - 0.5
+        Social Risk Score      - 6.7
+        Governance Risk Score  - 7.6
+        Total ESG Risk Score is 15
+        (which is 10th percentile,Low)
+        Controversy Level - 2 (Moderate)
+
+    </string>
+    <string name="para3">
+        ESG Components score of Amazon are
+        Environment Risk Score - 5.6
+        Social Risk Score      - 14.8
+        Governance Risk Score  - 9.9
+        Total ESG Risk Score is 30
+        (which is 64th percentile,High)
+        Controversy Level - 3 (Significant)
+
+    </string>
+    <string name="para4">
+        ESG Components score of Reliance are
+        Environment Risk Score - 20.5
+        Social Risk Score      - 10.1
+        Governance Risk Score  - 6.3
+        Total ESG Risk Score is  37
+        (which is 84th percentile,High)
+        Controversy Level - 2 (Moderate)
+
+    </string>
+
+</resources>
